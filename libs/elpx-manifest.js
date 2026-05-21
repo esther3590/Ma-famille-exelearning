@@ -214,8 +214,6 @@ window.__ELPX_MANIFEST__={
     "content/resources/35356c68-9131-103d-1c39-23faf39863f1.css",
     "content/resources/ma-famille-star---sda-de-frances .elpx/theme/style.js",
     "content/resources/81181711-d122-ce11-fca3-6f6b4da12d7a.js",
-    "content/resources/ma-famille-star---sda-de-frances .elpx/theme/config.xml",
-    "content/resources/e6d72868-8278-e6b4-b365-dea2b254dd0b.xml",
     "content/resources/ma-famille-star---sda-de-frances .elpx/theme/img/forward_arrow.svg",
     "content/resources/54d5c39a-4545-91f5-38b6-96e5c270bd9c.svg",
     "content/resources/ma-famille-star---sda-de-frances .elpx/theme/img/menu_open.svg",
@@ -558,8 +556,6 @@ window.__ELPX_MANIFEST__={
     "content/resources/d89426ac-7a66-182e-62b2-590d89fe4447.html",
     "content/resources/ma-famille-star---sda-de-frances .elpx/html/creditos.html",
     "content/resources/cc7520c0-4c12-109b-04a2-5d60269b9487.html",
-    "content/resources/ma-famille-star---sda-de-frances .elpx/content.xml",
-    "content/resources/6721dfd3-1082-cbc3-55bd-c623771c9581.xml",
     "content/resources/ma-famille-star---sda-de-frances .elpx/content.dtd",
     "content/resources/aab99185-0a1d-5c7c-998c-906ed9a1c464.dtd",
     "libs/elpx-manifest.js"
